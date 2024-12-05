@@ -1,5 +1,5 @@
 Creating an express server ✅
-REST API
+REST API ✅
 Auth and Authorization
 Database CRUD operations
 Middleware
