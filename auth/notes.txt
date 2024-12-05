@@ -1,0 +1,15 @@
+Authentication is the process of verifying the identities of people, apps, and services before giving them access to digital systems and resources
+
+Authorization determines what actions or resources a user is allowed to access after authentication.
+
+need of salting before hashing =  If many users have the same common password (like "123456"), an attacker can crack the hash for one user and gain access to multiple accounts that use the same password.
+
+ user1 --> 12345 --> [hashing algo] --> as423jdav#5
+ user2 --> 12345 --> [hashing algo] --> as423jdav#5
+
+ before hashing we perform salting(add a unique string  before hashing)
+ user1 --> 12345 --> 12345#saltingid1 --> [hashing algo] --> awfub3#dfdvh@sf
+ user2 --> 12345 --> 12345#saltingid2 --> [hashing algo] --> fusfbsiufb@3dbf4@@Database
+
+
+ 

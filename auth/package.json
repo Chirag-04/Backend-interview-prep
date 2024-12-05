@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "auth",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,10 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "console-ninja": "^1.0.0",
+    "bcrypt": "^5.1.1",
     "express": "^4.21.1",
-    "install": "^0.13.0",
-    "nodemon": "^3.1.7",
-    "npm": "^10.9.2"
+    "nodemon": "^3.1.7"
   }
 }

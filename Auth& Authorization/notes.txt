@@ -1,4 +1,0 @@
-Authentication is the process of verifying the identities of people, apps, and services before giving them access to digital systems and resources
-
-Authorization determines what actions or resources a user is allowed to access after authentication.
-
