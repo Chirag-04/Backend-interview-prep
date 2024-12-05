@@ -1,6 +1,6 @@
 Creating an express server ✅
 REST API ✅
-Auth and Authorization
+Auth and Authorization ✅
 Database CRUD operations
 Middleware
 Databases
