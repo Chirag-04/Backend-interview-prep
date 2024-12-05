@@ -1,0 +1,6 @@
+1. REST API
+2. Auth and Authorization
+3. Database CRUD operations
+4. Middleware
+5. Databases
+6. Mongoose
